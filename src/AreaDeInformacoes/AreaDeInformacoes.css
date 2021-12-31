@@ -1,0 +1,56 @@
+.AreaDeInformacoes{
+    width: 90%;
+    margin: auto;
+    border: 1px solid #d8cece;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, .6);
+    border-radius: 10px;
+    margin-top: 50px;
+    padding: 25px 0px;
+    display: flex;
+}
+
+.calendario{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 450px;
+}
+
+.seta> button{
+    background-color: #FFF;
+    border: none;
+}
+
+.seta> button> img{
+    width: 80px;
+    height: 60px;
+    cursor: pointer;
+}
+
+.container-balanco{
+    width: 60%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bolder;
+    font-size: 1.1rem;
+    color: rgb(146, 165, 184);
+}
+
+.receita, .despesa, .balanco{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.receita> span, .despesa> span{
+    color: black;
+}
+
+.verde{
+    color: green;
+}
+
+.vermelho{
+    color: red;
+}

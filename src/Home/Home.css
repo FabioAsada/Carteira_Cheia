@@ -1,0 +1,19 @@
+
+.container-imagem{
+    width: 80%;
+    float: right;
+    text-align: center;
+}
+
+h1{
+    width: 80%;
+    margin-right: auto;
+    text-align: start;
+    margin-top: 22px;
+    color: rgb(212, 6, 6);
+}
+
+.cara-zen{
+    width: 771px;
+    height: 671px;
+}

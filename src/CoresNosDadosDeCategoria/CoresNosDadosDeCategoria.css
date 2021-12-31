@@ -1,0 +1,34 @@
+.brown{
+    background-color: brown;
+    color: #FFF;
+    font-size: 1.1rem;
+    border-radius: 6px;
+    text-align: center;
+    padding: 5px;
+}
+
+.blue{
+    background-color: rgb(84, 84, 243);
+    color: #FFF;
+    font-size: 1.1rem;
+    border-radius: 6px;
+    text-align: center;
+    padding: 5px 10px;
+}
+
+.green{
+    background-color: rgb(8, 175, 8);
+    color: #FFF;
+    font-size: 1.1rem;
+    border-radius: 6px;
+    text-align: center;
+    padding: 5px;
+}
+
+.true{
+    color:red;
+}
+
+.false{
+    color:rgb(7, 182, 7);
+}

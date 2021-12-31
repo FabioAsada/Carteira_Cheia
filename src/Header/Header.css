@@ -1,0 +1,11 @@
+.cabecalho{
+    background-color: rgb(10, 71, 133);
+    color: white;
+    font-size: 1.3rem;
+    height: 100px;
+    line-height: 100px;
+    padding-left: 30px;
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, .4);
+    width: 80%;
+    margin-left: auto;
+}

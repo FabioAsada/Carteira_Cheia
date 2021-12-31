@@ -1,0 +1,69 @@
+.container{
+    background-color: rgb(224, 224, 224);
+    width: 288px;
+    height: 100vh;
+    position: fixed;
+    top: 0px;
+    padding-top: 30px;
+}
+.logo{
+    height: 130px;
+    text-align: center;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 15px;
+}
+
+.logo> img{
+    margin: auto;
+}
+
+.logo> span{
+    font-size: 1.3rem;
+    font-weight: bolder;
+    font-style: italic;
+    color: rgb(127, 148, 206);
+}
+
+.lista{
+    list-style: none;
+    font-size: 1.2rem;
+    padding-left: 0px;
+    margin-top: -20px;
+}
+
+.menu-lateral{
+    border-bottom: 1px solid black;
+    padding-left: 20px;
+    cursor: pointer;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.link-inicial{
+    text-decoration: none;
+    color: black;
+    padding: 14px 0;
+    margin-left: -18px;
+    padding-left: 20px;
+    padding-right: 205px;
+}
+
+.link-financeiro{
+    text-decoration: none;
+    color: black;
+    padding: 14px 0;
+    margin-left: -18px;
+    padding-left: 20px;
+    padding-right: 156px;
+}
+
+.link-inicial:hover, .link-financeiro:hover{
+    color: rgb(255, 255, 255);
+}
+
+.menu-lateral:hover{
+    background-color: #7888ac;
+    color: white;
+} 
+
